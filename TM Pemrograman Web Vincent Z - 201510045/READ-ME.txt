@@ -1,0 +1,12 @@
+Hello...!!
+I'm Tharindu Namal
+BSc.Information Technology - Horizon Campus
+My final project is library management system using PHP
+
+###admin login###
+	username - admin
+	password - 123
+
+###userlogin###
+	username - namal
+	password - n123
